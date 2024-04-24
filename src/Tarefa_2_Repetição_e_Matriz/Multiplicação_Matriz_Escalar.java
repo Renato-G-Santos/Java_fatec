@@ -1,4 +1,4 @@
-package Tarefa_2_Repetição_e_Matriz;
+package Java_fatec.src.Heranca.model;
 import java.util.Scanner;
 
 
